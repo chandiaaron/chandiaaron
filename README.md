@@ -7,10 +7,11 @@
   - [Control categories](https://docs.google.com/document/d/1oKdBDyQh62U3-QjqcbK6H82yDWyo2XKXUIzDWW9mYbU/edit?usp=sharing)
   - [Controls and compliance checklist ](https://docs.google.com/document/d/1WurSxlNYq9LoWXzZTjK2V_9LPY4FJ5S0oXaWRYwNvKM/edit?usp=sharing) 
 
-<h2> Certifications </h2>
+<h2> ⭐ Certifications </h2>
 
-- [Google - Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/ZW5EH32QWUMM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6) 
+- <b> Google Cybersecurity Professional Certificate </b> 
+   - [Google - Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/ZW5EH32QWUMM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+   - [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6) 
 
 <h2> 🤳 Connect with me: </h2>
 
