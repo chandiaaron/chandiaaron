@@ -10,6 +10,7 @@
 <h2> Certifications </h2>
 
 - [Google - Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/ZW5EH32QWUMM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6) 
 
 <h2> 🤳 Connect with me: </h2>
 
