@@ -11,7 +11,8 @@
 
 - <b> Google Cybersecurity Professional Certificate </b> 
    - [Google - Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/ZW5EH32QWUMM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-   - [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6) 
+   - [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6)
+   - [Google - Connect and Protect: Networks and Network Security](https://coursera.org/share/3adb73bfec6e6a5804cb3c9836d89e5f) 
 
 <h2> 🤳 Connect with me: </h2>
 
