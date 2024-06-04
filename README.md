@@ -10,7 +10,7 @@
 - <b> Using the NIST Cybersecurity Framework </b>
   - [Using the NIST Cybersecurity Framework to respond to a security incident](https://docs.google.com/document/d/1ql1QRrCZvzDQY_Ofl2m5eOAxD5a1QvNnti2i6KnxUl4/edit?usp=sharing&resourcekey=0-8G79Ybz9jVwKhJ1ng5zktQ)
 
-- <b> Use Linux commands to manage file permissions </b>
+- <b> Use of Linux commands to manage file permissions </b>
   - [File permissions in Linux](https://docs.google.com/document/d/13MQBfKTI_O7eSTW_y090ZqbBrlrjkGdidFpEiLrxt0Q/edit?usp=sharing&resourcekey=0-d52Fe9SBEvqMo3YXrqDPUg)
  
   
