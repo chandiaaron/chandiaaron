@@ -15,7 +15,11 @@
  
 - <b> Using SQL to get specific information about employees, their machines, and the departments they’re in </b>
   - [Filter with AND, OR, and NOT](https://docs.google.com/document/d/1_77Lr6ChOLFFtS6jXuOJM3A6hBPjDixfvCZfNh_x1Og/edit?usp=sharing) 
- 
+
+ <h2>📊 Excel Skills / Mini Projects:</h2>
+
+ - <b> Excel Work_Book </b>
+  - [Functions, Analysis and More...](https://docs.google.com/document/d/1fvJRFimwLtsTuhAL2XtofFnHblatLTOKIdtDy4akdrQ/edit?usp=sharing) 
   
 
 <h2> ⭐ Certifications </h2>
