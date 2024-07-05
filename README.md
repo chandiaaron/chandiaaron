@@ -1,5 +1,6 @@
 <h1> 🌐 Hi, I'm Aaron! Currently on a mission to carve out a career in cybersecurity 🌐 </h1> 
 
+
 <h2>👨‍💻 Google Related Cybersecurity Projects:</h2>
 
 - <b> Conducting a Security Audit </b>
@@ -14,7 +15,8 @@
   - [File permissions in Linux](https://docs.google.com/document/d/13MQBfKTI_O7eSTW_y090ZqbBrlrjkGdidFpEiLrxt0Q/edit?usp=sharing&resourcekey=0-d52Fe9SBEvqMo3YXrqDPUg)
  
 - <b> Using SQL to get specific information about employees, their machines, and the departments they’re in </b>
-  - [Filter with AND, OR, and NOT](https://docs.google.com/document/d/1_77Lr6ChOLFFtS6jXuOJM3A6hBPjDixfvCZfNh_x1Og/edit?usp=sharing) 
+  - [Filter with AND, OR, and NOT](https://docs.google.com/document/d/1_77Lr6ChOLFFtS6jXuOJM3A6hBPjDixfvCZfNh_x1Og/edit?usp=sharing)
+    
 
  <h2>📊 Excel Skills / Mini Projects:</h2>
 
