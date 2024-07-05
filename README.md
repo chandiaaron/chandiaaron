@@ -13,6 +13,9 @@
 - <b> Use of Linux commands to manage file permissions </b>
   - [File permissions in Linux](https://docs.google.com/document/d/13MQBfKTI_O7eSTW_y090ZqbBrlrjkGdidFpEiLrxt0Q/edit?usp=sharing&resourcekey=0-d52Fe9SBEvqMo3YXrqDPUg)
  
+- <b> Using SQL to get specific information about employees, their machines, and the departments they’re in </b>
+  - [Filter with AND, OR, and NOT](https://docs.google.com/document/d/1_77Lr6ChOLFFtS6jXuOJM3A6hBPjDixfvCZfNh_x1Og/edit?usp=sharing) 
+ 
   
 
 <h2> ⭐ Certifications </h2>
