@@ -21,7 +21,7 @@
  <h2>📊 Excel Skills / Mini Projects:</h2>
 
  - <b> Excel Work_Book </b>
-  - [Functions, Analysis and More...](https://docs.google.com/document/d/1fvJRFimwLtsTuhAL2XtofFnHblatLTOKIdtDy4akdrQ/edit?usp=sharing) 
+    - [Functions, Analysis and More...](https://docs.google.com/document/d/1fvJRFimwLtsTuhAL2XtofFnHblatLTOKIdtDy4akdrQ/edit?usp=sharing) 
   
 
 <h2> ⭐ Certifications </h2>
