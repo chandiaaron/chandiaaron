@@ -1,6 +1,6 @@
 <h1> 🌐 Hi, I'm Aaron! Currently on a mission to carve out a career in cybersecurity 🌐 </h1> 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Google Related Cybersecurity Projects:</h2>
 
 - <b> Conducting a Security Audit </b>
   - [Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1_IsV7QrdjpD_u_LW7r9RzuOn3kN_C94CZmcZZrpC1u0/edit?usp=sharing)
