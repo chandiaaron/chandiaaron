@@ -1,4 +1,4 @@
-<h1> 🌐 Hi, I'm Aaron! Currently on a mission to carve out a career in cybersecurity 🌐 </h1> 
+<h1> 🌐 Hi, I'm Aaron! Welcome to my page 🌐 </h1> 
 
 
 <h2>👨‍💻 Google Related Cybersecurity Projects:</h2>
