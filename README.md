@@ -26,11 +26,14 @@
 
 <h2> ⭐ Certifications </h2>
 
-- <b> Google Cybersecurity Professional Certificate </b> 
+- <b> Google Cybersecurity Professional </b> 
    - [Google - Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/ZW5EH32QWUMM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
    - [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6)
    - [Google - Connect and Protect: Networks and Network Security](https://coursera.org/share/3adb73bfec6e6a5804cb3c9836d89e5f)
-   - [Google - Tools of the Trade: Linux and SQL](https://coursera.org/share/af6a1bc2120e33b9ff97169033a42035) 
+   - [Google - Tools of the Trade: Linux and SQL](https://coursera.org/share/af6a1bc2120e33b9ff97169033a42035)
+
+- <b> HackerRank </b>
+   - [HackerRank - Python (Basic)](https://www.hackerrank.com/certificates/fe0db3590261) 
 
 <h2> 🤳 Connect with me: </h2>
 
